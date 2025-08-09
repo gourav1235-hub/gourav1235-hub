@@ -22,8 +22,6 @@ kar</h1>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **https://github.com/keical/keiconnect-website**
-
 - 👨‍💻 My project  https://book-library-p7i3.vercel.app/
 
 - 📫 How to reach me **gouravsarkar399@gmail.com**

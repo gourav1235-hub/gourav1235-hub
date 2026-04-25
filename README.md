@@ -21,9 +21,6 @@ kar</h1>
 - 🧑My Portfolio: (https://portfolio-six-ruddy-55.vercel.app/)
   
 - 🔭 I’m currently working on **https://github.com/keical/keiconnect-website**
-
-- 🌱 I’m currently learning **Data Science**
-
 - 👨‍💻 First project  https://book-library-p7i3.vercel.app/
 - 👨‍💻 Second project  https://bookhub-red.vercel.app/
 - 👨‍💻 Third project https://tinyurl.com/49m9dbfw 

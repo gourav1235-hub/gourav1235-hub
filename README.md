@@ -16,8 +16,6 @@ kar</h1>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourav1235-hub" alt="gourav1235-hub" /></a> </p>
-
 - 🧑My Portfolio: (https://portfolio-six-ruddy-55.vercel.app/)
   
 - 👨‍💻 First project  https://book-library-p7i3.vercel.app/
